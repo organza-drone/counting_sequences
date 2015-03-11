@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # change this to be right for your own setup
-CS_DIR=/home/pvh/Documents/counting_sequences
+CS_DIR=/home/zameer/Documents/python/counting_sequences
 
 BIN_DIR=$CS_DIR/bin
 LIB_DIR=$CS_DIR/lib
